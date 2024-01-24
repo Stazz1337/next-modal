@@ -1,0 +1,13 @@
+.root {
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 150px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+}
